@@ -1,4 +1,4 @@
-language: csahrp
+language: csharp
 solution: exercises/dotnet/TaxCalculator.sln
 before_script: cd exercises/dotnet
 mono: none
